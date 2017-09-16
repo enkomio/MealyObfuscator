@@ -76,6 +76,6 @@ the generated automata is correct.
 ## License information
 Copyright (C) 2014-2017 Antonio Parata
 
-  [1]: https://github.com/enkomio/MealyObfuscator/
+  [1]: https://github.com/enkomio/MealyObfuscator/tree/master/Src
   [2]: https://github.com/enkomio/MealyObfuscator/releases/latest
   [3]: https://twitter.com/s4tan
